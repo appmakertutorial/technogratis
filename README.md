@@ -1,0 +1,2 @@
+# technogratis
+all script code
