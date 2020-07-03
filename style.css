@@ -38,7 +38,7 @@ ul li{
 }
 
 .website-title {
-    background-color: #ef5223;
+    background: linear-gradient(to right,#2b0c93 0,#a54098 56%,#f84272 100%);
     color: #fff !important;
     padding: 28px 23px 0;
     text-align: center;
@@ -332,7 +332,7 @@ ul li{
 }
 
 .description-wrapper {
-    background-color: #186279;
+    background: linear-gradient(to right,#2b0c93 0,#a54098 56%,#f84272 100%);
     color: #fff;
     font-size: 18px;
     text-align: center;
